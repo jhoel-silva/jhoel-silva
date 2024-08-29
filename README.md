@@ -2,5 +2,5 @@
 
 
 - 🔭 atualmente estou trabalhando como lider de produção
-- 🌱 Estou cursando Engenaria de sofware
-- 👯 Sempre em busca de novos conhecimenos
+- 🌱 Estou cursando Engenharia de software
+- 👯 Sempre em busca de novos conhecimentos
